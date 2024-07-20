@@ -1,4 +1,4 @@
-# Twitter-US-Airline-Sentiment-Analysis---NLP
+# Twitter-Airline-Sentiment-Analysis---NLP
 Natural Language Processing
 Data Description:
 A sentiment analysis job about the problems of each major U.S. airline.
